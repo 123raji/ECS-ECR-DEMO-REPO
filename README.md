@@ -1,1 +1,0 @@
-# ECS-ECR-DEMO-REPO
